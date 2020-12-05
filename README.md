@@ -13,7 +13,7 @@ To predict house price from 80 different features by comparing Linear Regression
 The data is taken from [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) competition hosted in Kaggle
 #### Data description: [Click here](https://github.com/sayeed245/House-Price-Prediction/blob/main/data_description.txt)
 ## Technical Aspect
-- [Linear Regression Ensemble](https://github.com/sayeed245/House-Price-Prediction/blob/main/Linear%20Regression%2Censemble%20XGB%2CLASSO(complete%2020-11-2020).ipynb)
+- [HP Ensemble](https://github.com/sayeed245/House-Price-Prediction/blob/main/HP%20ensemble.ipynb)
      
      - Performed outlier elimination and imputed missing values
      - Applied Box-Cox transformation on skewed features
